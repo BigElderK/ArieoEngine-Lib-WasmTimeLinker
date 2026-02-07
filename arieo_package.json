@@ -1,5 +1,5 @@
 {
-    "name": "areio.engine.libs.wasm_time_linker",
+    "name": "ArieoEngine-Lib-WasmTimeLinker",
     "description": "Core engine librarie",
     "build_commands":
     [
